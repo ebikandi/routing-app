@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "routing-native-app",
-    "slug": "routing-native-app",
+    "name": "native-subpackage",
+    "slug": "native-subpackage",
     "entryPoint": "node_modules/expo/AppEntry.js",
     "version": "1.0.0",
     "orientation": "portrait",

@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "native-subpackage": {
+      "signature": "0ce96c1170d96b4c6662017d6a05416f",
+      "file": true
+    }
+  }
+}
